@@ -1,0 +1,1 @@
+The goal of this project is to create a web scraper that will scrape a weather site for the hourly weather for the next 10 hours and dump those results to a csv every time its ran.
